@@ -1,0 +1,19 @@
+{
+  "name": "graphql-react-todo-list",
+  "version": "1.0.0",
+  "description": "simple todo list project with node js and react js and graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahdiYasini/todoListWithGraphQl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahdiYasini/todoListWithGraphQl/issues"
+  },
+  "homepage": "https://github.com/MahdiYasini/todoListWithGraphQl#readme"
+}
